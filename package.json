@@ -1,0 +1,22 @@
+{
+  "name": "python_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac-Andriamiharisoa/python_middleware.git"
+  },
+  "author": "isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaac-Andriamiharisoa/python_middleware/issues"
+  },
+  "homepage": "https://github.com/Isaac-Andriamiharisoa/python_middleware#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
